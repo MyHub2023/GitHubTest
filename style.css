@@ -4,11 +4,25 @@
     box-sizing: border-box;
 }
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100vh;
+    text-align: center;
 }
 .main-heading {
   display: none;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: darkolivegreen;
+  border: 2px solid #f503e9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  
 }
