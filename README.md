@@ -1,1 +1,1 @@
-# This test repository for learning Git and Git Hub
+# This is a test repository for learning Git and GitHub
